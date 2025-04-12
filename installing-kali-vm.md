@@ -36,11 +36,6 @@ Instead of importing an appliance (`.ova`), I had to manually download a Virtual
 7. Browse to the `.vdi` file you downloaded and select it  
 8. Finish the setup and start your VM  
 
-### Screenshot
-
-![Kali VM Setup Screenshot](./images/kali_vm_setup.png)
-
----
 
 ## Takeaways
 
