@@ -45,8 +45,3 @@ Instead of importing an appliance (`.ova`), I had to manually download a Virtual
 
 ---
 
-## Screenshots
-
-- [x] Screenshot of Kali VM setup in VirtualBox  
-- [ ] Screenshot of successful boot/login  
-- [ ] Screenshot of VirtualBox settings page  
